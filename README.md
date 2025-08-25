@@ -47,9 +47,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**4. Download the Data:**
-The feature and label files are not included in the repository. Please download them from [LINK TO GOOGLE DRIVE, DROPBOX, ETC.] and unzip them into the `data/` folder, maintaining the original structure (`data/Features-Labels-Lists/...`).
-
 ## 🚀 How to Run an Experiment
 
 All experiments are controlled and executed from the `main.py` script. To configure a run, open `main.py` and edit the "Control Panel" at the beginning of the `main()` function.
