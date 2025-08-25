@@ -78,7 +78,6 @@ Experiments were conducted on the **Flowers-102** dataset, using features extrac
 |-------------------|----------------------|-----------|-------------------------|
 | ResNet            | JaccardK             | Auto      | **85.41% ± 1.30%** |
 | ResNet            | RBO                  | Auto      | **84.33% ± 2.37%** |
-|                   |                      |           |                    |
 
 ## 🎓 Author and Acknowledgements
 
